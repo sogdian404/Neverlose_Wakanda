@@ -80,7 +80,7 @@
             "[-10]% Gold cost of acquiring tiles [in all cities]",
             "[-10]% maintenance costs <for [All] units>",
             "[Gold] cost of purchasing items in cities [-10]%",
-            "[-10]% maintenance cost for buildings [in all cities]",
+            "[-10]% maintenance cost for [all] buildings [in all cities]",
             "Only available <if [Sacred Mound] is constructed>",
             "Will not be displayed in Civilopedia"],
         "quote": "'Just as money has been in the past the instrument of men's selfishness, now it must be the instrument of their goodwill.' - Alice Bailey"
