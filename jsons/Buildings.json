@@ -49,7 +49,7 @@
             "[+10]% Strength <for [All] units>",
             "[+33]% Strength <for [All] units> <vs [Ranged] units> <when defending>",
             "Provides [2] [Iron]",
-            "Double quantity of [Iron] produced",
+            "[+100]% [Iron] resource production",
             "Only available <if [Sacred Mound] is constructed>",
             "Will not be displayed in Civilopedia"],
         "quote": "'The most versatile substance on the planet, and they used it to build a Frisbee.' - Ultron"
@@ -111,7 +111,7 @@
 			"No movement cost to pillage <for [non-air] units>",
 			"[+10]% Strength <for [All] units> <vs [Armored] units>",
             "Provides [2] [Aluminum]",
-            "Double quantity of [Aluminum] produced",
+            "[+100]% [Aluminum] resource production",
             "Only available <if [Sacred Mound] is constructed>",
             "Will not be displayed in Civilopedia"],
         "quote": "'Antarctic Vibranium. Ever heard of it? It emanates vibrations, which cause the atomic molecular bonds in metals to weaken and in most cases liquefy.' - Misty Knight"
@@ -141,7 +141,7 @@
         "uniques": ["[+2 Production] [in all cities]",
             "[+15]% Production when constructing [Military] units [in all cities]",
             "Provides [2] [Uranium]",
-            "Double quantity of [Uranium] produced",
+            "[+100]% [Uranium] resource production",
             "Only available <if [Sacred Mound] is constructed>",
             "Will not be displayed in Civilopedia"],
         "quote": "'It's not just a metal. They sew it into their clothes. It powers their city, their tech... their weapons. Makes my arm cannon look like a leaf blower.' - Ulysses Klaue"
