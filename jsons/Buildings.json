@@ -30,6 +30,8 @@
         "isWonder": "true",
         "requiredTech": "Agriculture",
         "cost": 1,
+        "cityStrength": 10000,
+		"cityHealth": 10000,
         "science": 1,
         "uniques": ["Provides [1] [Vibranium]",
             "[+1 Culture, +1 Science, +1 Happiness, +1 Faith, +1 Gold, +1 Food, +1 Production] [in all cities]",

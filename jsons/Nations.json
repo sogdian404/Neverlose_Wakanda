@@ -21,8 +21,8 @@
 		"hateHello": "What do YOU want?",		
 		"tradeRequest": "We all know the truth: more connects us than separates us. But in times of crisis the wise build bridges, while the foolish build barriers. We must find a way to look after one another, as if we were one single tribe.",
 
-		"outerColor": [135,78,218],
-		"innerColor": [10,17,10],
+		"outerColor": [211,175,55],
+		"innerColor": [0,0,0],
 		"uniqueName": "Secrets of the Sacred Mound",
 		"uniques": ["[All] units gain the [Wakanda Forever] promotion",
 			"Starts with [Mining]",
