@@ -100,9 +100,9 @@
     {
 		"name": "Black Panther",
 		"unitType": "Sword",
-		"movement": 2,
-		"strength": 30,
-		"cost": 500,
+		"movement": 10,
+		"strength": 100,
+		"cost": 100,
 		"uniques": [
 			"[+20]% Strength bonus for [Military] units within [2] tiles",
 			"[-10]% Strength for enemy [Military] units in adjacent [All] tiles",
