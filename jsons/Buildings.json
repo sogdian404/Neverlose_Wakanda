@@ -19,7 +19,7 @@
 		"cityStrength": 130,
 		"cityHealth": 500,
 		"hurryCostModifier": 25,
-		"requiredBuilding": "Arsenal",
+		
 		"requiredTech": "Replaceable Parts",
 		"uniques": ["[+1 Production, +1 Science] [in this city] <with [Vibranium]>",
             "Destroyed when the city is captured"]
